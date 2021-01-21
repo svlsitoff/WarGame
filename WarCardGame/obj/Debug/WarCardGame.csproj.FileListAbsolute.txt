@@ -1,0 +1,10 @@
+C:\Users\Z\Desktop\war card game\WarCardGame\bin\Debug\WarCardGame.exe.config
+C:\Users\Z\Desktop\war card game\WarCardGame\bin\Debug\WarCardGame.exe
+C:\Users\Z\Desktop\war card game\WarCardGame\bin\Debug\WarCardGame.pdb
+C:\Users\Z\Desktop\war card game\WarCardGame\obj\Debug\WarCardGame.csprojAssemblyReference.cache
+C:\Users\Z\Desktop\war card game\WarCardGame\obj\Debug\WarCardGame.Form1.resources
+C:\Users\Z\Desktop\war card game\WarCardGame\obj\Debug\WarCardGame.Properties.Resources.resources
+C:\Users\Z\Desktop\war card game\WarCardGame\obj\Debug\WarCardGame.csproj.GenerateResource.cache
+C:\Users\Z\Desktop\war card game\WarCardGame\obj\Debug\WarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\war card game\WarCardGame\obj\Debug\WarCardGame.exe
+C:\Users\Z\Desktop\war card game\WarCardGame\obj\Debug\WarCardGame.pdb
